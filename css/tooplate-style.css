@@ -609,7 +609,8 @@ ul.cd-hero-slider {
 }
 
 #contact {
-	background-image: url(../img/contact-bg.png);
+	/* background-image: url(../img/contact-bg.png); */
+	background-color: rgb(56, 56, 56);
 	background-repeat: no-repeat;
 	width: 100%;
 	background-size: cover;
